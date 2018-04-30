@@ -11,9 +11,12 @@ package repoedd1;
  */
 public class RepoEDD1 {
 
-    /**
-     * @param args the command line arguments
-     */
+    int a;
+    void EsA() {
+    	
+    	System.out.println("EsA: " + a);
+    	
+    }
     public static void main(String[] args) {
     	System.out.print ("Hello World.");
     	System.out.println ("IDE Eclipse");
