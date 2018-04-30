@@ -18,12 +18,16 @@ public class RepoEDD1 {
     	
     }
     public static void main(String[] args) {
+<<<<<<< HEAD
+        System.out.println("IDE Netbeans");
+=======
     	System.out.print ("Hello World.");
     	System.out.println ("IDE Eclipse");
     	System.out.println("Altra línea...");
 
     	
     	
+>>>>>>> origin/master
     }
     
 }
